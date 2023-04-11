@@ -4,8 +4,6 @@
 
 Data: The Inc. 5000 of 2014
 
-![](https://github.com/GustavoBraido/Tableau-Project/blob/main/Tableau-Dashboard.png?raw=true)
-
 ### [Tableau Dashboard](https://public.tableau.com/app/profile/gustavo8148/viz/BiggestGrowthofU_S_CompaniesInc_5000of2014/Dashboard1)
 
 ### [Data Source](https://www.inc.com/inc5000)
